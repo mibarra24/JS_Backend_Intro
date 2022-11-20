@@ -1,0 +1,2 @@
+parrafoInicial = document.getElementById("parrafoinicial")
+
