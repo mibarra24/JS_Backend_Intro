@@ -15,7 +15,7 @@ function accion() {
         "cyan"
     ]
 
-    parrafoInicial.style.color = colores[Math.random()]
+    parrafoInicial.style.color = colores[Math.floor(Math.random() * colores.length)];
 }
 
 
