@@ -1,0 +1,16 @@
+button:hover{
+    cursor: pointer;
+}
+
+h1{
+    color: aqua;
+}
+
+.modo_sexo {
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: red;
+}
+
